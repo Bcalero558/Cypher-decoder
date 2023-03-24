@@ -1,0 +1,5 @@
+﻿  Cypher Reader.cpp
+  monoalphabetic.cpp
+  Generating Code...
+monoalphabetic.obj : error LNK2005: "class std::unordered_map<char,char,struct std::hash<char>,struct std::equal_to<char>,class std::allocator<struct std::pair<char const ,char> > > hashMap" (?hashMap@@3V?$unordered_map@DDU?$hash@D@std@@U?$equal_to@D@2@V?$allocator@U?$pair@$$CBDD@std@@@2@@std@@A) already defined in Cypher Reader.obj
+C:\Users\Kuma\source\repos\Cypher Reader\x64\Debug\Cypher Reader.exe : fatal error LNK1169: one or more multiply defined symbols found
